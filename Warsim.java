@@ -6,7 +6,7 @@
  The enemy doesn't take a turn, only player does!
  Go to ---> Game loop and finish the enemy code
 
- 2. Improve the menu print statements in the Ink class. DONE
+ 2. Improve the menu print statements ---> Ink class. DONE
  a. Display how much health each player has left after each turn. DONE
  b. Display which turn it is. DONE
  Add a comment for each strike during the game?!
